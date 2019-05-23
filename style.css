@@ -1,0 +1,97 @@
+body {
+  background-color: black;
+  font-family: Arial;
+  color: white;
+  position: relative;
+}
+
+.navbar {
+  overflow: hidden;
+  position: fixed !important;
+  background-color: #333;
+  top: 0;
+  width: 100%;
+  font-family: Times New Roman;
+  text-align: center;
+}
+
+.navbar a {
+  float: left;; 
+  display: block;
+  text-align: center !important;
+  color: #f2f2f2;
+  padding: 14px 16px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.main {
+  margin-top: 70px;
+  color: white;
+  font-weight: normal;
+}
+
+.footer {
+	font-family: Courier New;
+  text-align: center;
+  bottom: 0px;
+  position: fixed;
+  width: 100%;
+}
+
+.intro a {
+	color: white;
+	font-style: italic !important;
+	text-decoration: none;
+}
+	
+.intro img {
+	height: 15px;
+	width: 15px;
+}
+	
+.contact a {
+  color: purple !important;
+}
+
+.contact {
+  font-weight: lighter;
+}
+
+.main a {
+  text-decoration: none;
+  color: white;
+  font-style: italic;
+}
+
+.partners img {
+  height: 15px;
+  width: 15px;
+}
+
+.members {
+  font-weight: lighter !important;
+  font-size: 20px;
+  font-family: 'Times New Roman';
+}
+
+.ksaimg {
+  height: 150px;
+  width: 150px;
+}
+
+.heading {
+  text-align: center;
+  font-weight: bold !important;
+}
+
+
+
+
+
+
+
+
+
+
+
